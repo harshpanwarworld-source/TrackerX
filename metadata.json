@@ -1,0 +1,6 @@
+{
+  "name": "TRACKERX",
+  "description": "Professional trading analytics and trading-journal web platform for retail and funded-account traders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
